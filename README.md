@@ -3,10 +3,6 @@
 
 DPErl is a Perl script for create a LDIF/VCARD file to use as addressbook.
 
-## NOTE
-This script is not working due to cloudflare email obfuscation mechanism.
-There ARE worksarounds for this but it is under your responsability.
-
 ## Installation
 
 Use debian package manager to install dependencies.

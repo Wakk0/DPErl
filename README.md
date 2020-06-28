@@ -42,7 +42,6 @@ Please make sure to update tests as appropriate.
 
 ## ToDo
 * Add function style programming to the code.
-* Emulate the JS function to unhide the emails (if it's possible)
 
 ## License
 [GPL-v3](https://choosealicense.com/licenses/gpl-3.0/)
